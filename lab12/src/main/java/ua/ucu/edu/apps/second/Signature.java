@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.secondTask;
+package ua.ucu.edu.apps.second;
 
 import java.util.function.Consumer;
 

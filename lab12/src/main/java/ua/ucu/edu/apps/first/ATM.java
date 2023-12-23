@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.firstTask;
+package ua.ucu.edu.apps.first;
 
 public class ATM {
     public Tray firstTray;

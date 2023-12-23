@@ -1,4 +1,4 @@
-package ua.ucu.edu.apps.firstTask;
+package ua.ucu.edu.apps.first;
 
 public class Tray100 extends Tray {
     public Tray100() {
