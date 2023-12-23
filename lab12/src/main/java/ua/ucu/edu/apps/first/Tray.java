@@ -21,12 +21,9 @@ public class Tray {
         }
 
         System.out.format(
-            "Please take %d of denomination %d\n",
-            amount / denomination,
-            denomination
-        );
-        
-    }
-} 
-    
+                "Please take %d of denomination %d\n",
+                amount / denomination,
+                denomination);
 
+    }
+}
